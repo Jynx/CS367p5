@@ -1,17 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  (TestHash.java)
-// Files:            (HashTable.java)
-// Semester:         CS302 Spring 2013
-//
-// Author:           (Steven Volocyk Sevenex@gmail.com)
-// CS Login:         (volocyk)
-// Lecturer's Name:  (Jim Skrentny)
-// Lab Section:      (Lecture 2, 204 Educational Sciences)
-//                   
-// Credits:          
-//////////////////////////// 80 columns wide /////////////////////////////////
-
 /**
  * This class is an implementation of a java Hashtable  
  * 
