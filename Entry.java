@@ -13,10 +13,10 @@ public class Entry {
 	public static final int LONG = 2;
 	public static final int BOTH = 3;
 	
-	private String name; // name of indivdual
-	private long phone;// phone number
-	private int hashType; // type of hash
-	private int mHash; // for hashcode 
+	private String name;
+	private long phone;
+	private int hashType; 
+	private int mHash; 
 	
 	public Entry(String name, long phone, int hashType) {
 		this.name = name;
