@@ -18,13 +18,10 @@ import java.util.LinkedList;
  * its maximum load factor. Note that this hashtable allows duplicate entries.
  */
 public class HashTable<T> {
-	// Size of list, hash code, number of items.
 	private static int mSize, hash, numItems = 0; 
 	// load factor and comparison value for determing if resize needed.
 	private static double mLoad, compareValue = 0.0;
-	// hashtables
 	private LinkedList<T>[] mcHashTable, newTable;
-	// Linked lists for hashtables.
 	private LinkedList<T> list, newList = null;
 	
     /**
